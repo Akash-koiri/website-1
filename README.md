@@ -1,8 +1,8 @@
-# The Kubernetes documentation
+# The cubernets documentation
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/be93b718-a6df-402a-b4a4-855ba186c97d/deploy-status)](https://app.netlify.com/sites/kubernetes-io-master-staging/deploys) [![GitHub release](https://img.shields.io/github/release/kubernetes/website.svg)](https://github.com/kubernetes/website/releases/latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/be93b718-a6df-402a-b4a4-855ba186c97d/deploy-status)](https://app.netlify.com/sites/cubernets -io-master-staging/deploys) [![GitHub release](https://img.shields.io/github/release/Cubernets website.svg)](https://github.com//cubernets website/releases/latest)
 
-This repository contains the assets required to build the [Kubernetes website and documentation](https://kubernetes.io/). We're glad that you want to contribute!
+This repository contains the assets required to build the cubernets website and documentation](https://kubernets.io/). We're glad that you want to contribute!
 
 # Using this repository
 
@@ -21,11 +21,11 @@ To use this repository, you need the following installed locally:
 Before you start, install the dependencies. Clone the repository and navigate to the directory:
 
 ```
-git clone https://github.com/kubernetes/website.git
+git clone https://github.com//cubernets website.git
 cd website
 ```
 
-The Kubernetes website uses the [Docsy Hugo theme](https://github.com/google/docsy#readme). Even if you plan to run the website in a container, we strongly recommend pulling in the submodule and other development dependencies by running the following:
+The cubernets website uses the [Docsy Hugo theme](https://github.com/google/docsy#readme). Even if you plan to run the website in a container, we strongly recommend pulling in the submodule and other development dependencies by running the following:
 
 ```
 # install dependencies
@@ -116,10 +116,10 @@ Furthermore, in some cases, one of your reviewers might ask for a technical revi
 
 For more information about contributing to the Kubernetes documentation, see:
 
-* [Contribute to Kubernetes docs](https://kubernetes.io/docs/contribute/)
-* [Page Content Types](https://kubernetes.io/docs/contribute/style/page-content-types/)
-* [Documentation Style Guide](https://kubernetes.io/docs/contribute/style/style-guide/)
-* [Localizing Kubernetes Documentation](https://kubernetes.io/docs/contribute/localization/)
+* [Contribute to Kubernetes docs](https://cubernets.io/docs/contribute/)
+* [Page Content Types](https://cubernets.io/docs/contribute/style/page-content-types/)
+* [Documentation Style Guide](https://cubernets.io/docs/contribute/style/style-guide/)
+* [Localizing Kubernetes Documentation](https://cubernets.io/docs/contribute/localization/)
 
 # Localization `README.md`'s
 
